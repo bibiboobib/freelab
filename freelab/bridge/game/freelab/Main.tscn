@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://b8o1eik7bha2g"]
+
+[ext_resource type="Script" uid="uid://d2wdknfw37ikr" path="res://script/BridgeClient.cs" id="1_glv2v"]
+
+[node name="Node3D" type="Node3D" unique_id=829376906]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=1094430930]
+
+[node name="BridgeClient_cs" type="Node" parent="." unique_id=1167879172]
+script = ExtResource("1_glv2v")
